@@ -1,0 +1,45 @@
+.top{
+    background-color: #C0DEFF;
+    padding-top: 40px;
+    position: relative;
+    
+    
+}
+.middle
+{
+    background-color: #DBA39A;
+     height:200px;
+     width:200px;
+
+}
+.bottom
+{
+    background-color: #A4BE7B;
+    height: 200px;
+    width:200px;
+}
+body
+{   text-align: center;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    margin-top: 0px;
+    padding-top: 60px;
+    font-family: 'Montserrat', cursive;
+}
+.uc{
+    position:absolute;
+    
+    
+}
+.bc{
+    
+    top: 20px;
+    position: absolute;
+    right: 300px;
+}
+    
+}
